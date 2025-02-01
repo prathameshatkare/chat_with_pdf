@@ -60,6 +60,16 @@ With this tool, handling documents like reports, research papers, or legal contr
 
 6. Open your browser and navigate to `http://localhost:5000` to start interacting with PDFs.
 
+
+## Demo Video
+
+Watch a demo of "Chat with PDF" in action:
+
+[Click here to watch the Demo Video](https://github.com/prathameshatkare/chat_with_pdf/blob/main/assests/chat_with_pdf.mp4)
+
+Or, you can download the video and view it locally.
+
+
 ## Contributing
 
 1. Fork the repository.
