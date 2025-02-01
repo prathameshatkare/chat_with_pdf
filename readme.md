@@ -65,7 +65,7 @@ With this tool, handling documents like reports, research papers, or legal contr
 
 Watch a demo of "Chat with PDF" in action:
 
-[![Watch the demo video](https://img.youtube.com/vi/RIWbalZ7sTo/0.jpg)](https://github.com/prathameshatkare/chat_with_pdf/blob/main/assests/chat_with_pdf.mp4)
+[![Watch the demo video](https://img.youtube.com/vi/RIWbalZ7sTo/0.jpg)]([https://github.com/prathameshatkare/chat_with_pdf/blob/main/assests/chat_with_pdf.mp4](https://youtu.be/8UyFEZzidOw))
 
 > Click the image above to watch the video on YouTube.
 
