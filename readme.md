@@ -1,7 +1,5 @@
 
 
----
-
 # Chat with PDF - AI-Powered Document Interaction
 
 ## Overview
@@ -43,12 +41,24 @@ With this tool, handling documents like reports, research papers, or legal contr
    pip install -r requirements.txt
    ```
 
-3. **Run the Application**:
+3. **Get an API Key for Gemini**:
+   To create a similar project, you will need an API key from Gemini. Follow these steps:
+   - Go to [AI Studio](https://aistudio.google.com/app/apikey).
+   - Create a new project and generate the API key.
+   - Store the key in the `.env` file of the project.
+
+4. **Set up the API Key in the `.env` file**:
+   - Create a `.env` file in the project root and add the following line:
+     ```
+     GEMINI_API_KEY=your_api_key_here
+     ```
+
+5. **Run the Application**:
    ```bash
    python app.py
    ```
 
-4. Open your browser and navigate to `http://localhost:5000` to start interacting with PDFs.
+6. Open your browser and navigate to `http://localhost:5000` to start interacting with PDFs.
 
 ## Contributing
 
@@ -62,13 +72,6 @@ With this tool, handling documents like reports, research papers, or legal contr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Follow Me
-
-Stay tuned for more AI innovations and updates by following me on GitHub and LinkedIn:
-
-- GitHub: [https://github.com/your-username](https://github.com/prathameshatkare/)
-
-
 ---
 
-Feel free to adjust the repository link, GitHub username, or any other details!
+Let me know if you'd like any further adjustments!
